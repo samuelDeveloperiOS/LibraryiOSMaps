@@ -9,5 +9,5 @@
 #import "libMapiOS.h"
 
 @implementation libMapiOS
-
+NSString *lb;
 @end
